@@ -1,4 +1,4 @@
-# Hi I'm Samyak Raj Shakya  👋
+# 👋 Hi I'm Samyak Raj Shakya  
 
 # 👀 About me
 
