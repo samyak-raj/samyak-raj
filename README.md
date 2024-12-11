@@ -2,7 +2,7 @@
 
 # 👀 About me
 
-## I'm a web developer currently learning MERN stack.
+## Aspiring full-stack web developer with a focus on the MERN stack (MongoDB, Express, React, Node.js). Passionate about building scalable web applications, learning modern technologies, and continuously improving my skills.
 
 # 💻 Skills
 - Web Development
