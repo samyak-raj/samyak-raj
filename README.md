@@ -2,7 +2,7 @@
 
 # 👀 About me
 
-## I'm a web developer currently learning React.
+## I'm a web developer currently learning MERN stack.
 
 # 💻 Skills
 - Web Development
@@ -11,6 +11,7 @@
 - Tailwind
 - JavaScript
 - React
+- Express.js
 - Python
 
 # 🔗Connect With Me
