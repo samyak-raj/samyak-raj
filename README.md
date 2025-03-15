@@ -5,14 +5,17 @@
 ## Aspiring full-stack web developer with a focus on the MERN stack (MongoDB, Express, React, Node.js). Passionate about building scalable web applications, learning modern technologies, and continuously improving my skills.
 
 # 💻 Skills
-- Web Development
+- JavaScript
+- TypeScript
+- Reactjs
+- Express.js
+- MongoDB
+- PHP
+- React Native
+- Python
 - HTML5
 - CSS
 - Tailwind
-- JavaScript
-- React
-- Express.js
-- Python
 
 # 🔗Connect With Me
 - Add me on Discord: `S.R.S.#1161` ( username: s.r.s._ )
