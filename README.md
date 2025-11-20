@@ -2,7 +2,10 @@
 
 # 👀 About me
 
-## Aspiring full-stack web developer with a focus on the MERN stack (MongoDB, Express, React, Node.js). Passionate about building scalable web applications, learning modern technologies, and continuously improving my skills.
+## I’m a Software Engineering student at NCIT, passionate about building scalable applications and modern cloud-driven infrastructure. My work spans both full-stack web development and cloud engineering, with hands-on experience using:
+- React and Express.js for building dynamic, production-ready web applications
+- AWS (with local cloud emulation for testing) for designing cloud-native architectures
+- Infrastructure as Code (IaC) using Terraform to automate and provision cloud resources
 
 # 💻 Skills
 - AWS
