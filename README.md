@@ -9,7 +9,6 @@
 
 # 💻 Skills
 - AWS
-- Terraform
 - JavaScript
 - TypeScript
 - Reactjs
